@@ -1,0 +1,38 @@
+{
+  "Тренд + шум": {
+    "mean_difference": 0.03508324887150138,
+    "std_difference": 0.04371507969675292,
+    "mean_relative_error": 0.0008167315750450646,
+    "std_relative_error": 0.01303137271358407,
+    "ks_statistic": 0.07116788321167883,
+    "ks_pvalue": 0.007749669231424303,
+    "ks_similar": false,
+    "t_statistic": -0.24323122552032445,
+    "t_pvalue": 0.8078490581317914,
+    "t_similar": true
+  },
+  "ARMA": {
+    "mean_difference": 0.8319894930135732,
+    "std_difference": 0.7046939326736466,
+    "mean_relative_error": 0.019368562231472743,
+    "std_relative_error": 0.21006776950594724,
+    "ks_statistic": 0.18613138686131386,
+    "ks_pvalue": 5.2675742636604506e-17,
+    "ks_similar": false,
+    "t_statistic": -5.230442038238768,
+    "t_pvalue": 1.851882700747061e-07,
+    "t_similar": false
+  },
+  "Тренд + сезонність": {
+    "mean_difference": 0.00539570787936583,
+    "std_difference": 0.07778124773358952,
+    "mean_relative_error": 0.00012561108610375198,
+    "std_relative_error": 0.02318642528791522,
+    "ks_statistic": 0.06934306569343066,
+    "ks_pvalue": 0.010267740588100574,
+    "ks_similar": false,
+    "t_statistic": -0.03809184508939963,
+    "t_pvalue": 0.9696179250934047,
+    "t_similar": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "statistics": {
+    "count": 1096.0,
+    "mean": 42.95566614963503,
+    "std": 3.3546028233221943,
+    "var": 11.253360102241237,
+    "min": 37.4481,
+    "q25": 39.80995,
+    "median": 42.856399999999994,
+    "q75": 45.4595,
+    "max": 49.4093,
+    "skew": 0.3142443895462062,
+    "kurtosis": -1.1651233933229883,
+    "cv": 0.07809453615819892
+  },
+  "stationarity": {
+    "adf_statistic": -0.6832154771406663,
+    "adf_pvalue": 0.8510493382514552,
+    "adf_is_stationary": false,
+    "kpss_statistic": 4.8067400020891435,
+    "kpss_pvalue": 0.01,
+    "kpss_is_stationary": false
+  },
+  "autocorrelation": {
+    "acf_lag1": 0.9960904397964102
+  },
+  "outliers": {
+    "outlier_count": 0,
+    "outlier_percentage": 0.0,
+    "outlier_indices": []
+  }
+}
